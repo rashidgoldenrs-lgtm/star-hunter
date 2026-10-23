@@ -14,3 +14,4 @@ fullscreen = 1
 
 android.permissions =
 android.minapi = 23
+android.accept_sdk_license = True
