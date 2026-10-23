@@ -13,5 +13,6 @@ orientation = portrait
 fullscreen = 1
 
 android.permissions =
-android.minapi = 23
+android.minapi = 24
 android.accept_sdk_license = True
+android.ndk_api = 24
